@@ -2,7 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=BF44F7&background=A22DFF00&center=true&vCenter=true&random=false&width=435&height=100&lines=Hi+ALL%2C+This+Is+Mohammed+Ayman;Nice+To+Meet+You" alt="Typing SVG" /></a>
 </h1>
 <h2 align="center"> AI && Machine Learning Engineer</h2>
-<div style="text-align: center">
+<div style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
   <img src="https://github.com/mohame54/mohame54/blob/main/gif.gif" alt="Programmer">  
 </div>
 
