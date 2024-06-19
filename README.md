@@ -18,10 +18,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-ayman-kamel-20b108228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed ayman kamel" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Mohammed_ayman42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed_ayman42" height="30" width="40" /></a>
-
-<a href="mohammed164ayman@gmail.com" target="blank"> <img align="center" src="https://github.com/mohame54/mohame54/blob/main/gmail-icon-logo.svg" alt="mohammed_ayman42" height="30" width="40" /></a>
-
-
+<a href="mailto:mohammed164ayman@gmail.com" target="blank"> <img align="center" src="https://github.com/mohame54/mohame54/blob/main/gmail-icon-logo.svg" alt="Mohammed Ayman" height="30" width="40" /></a>
 </p>
 
 
