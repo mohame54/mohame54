@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ayman Kamel</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">AI && Machine Learning Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohame54" alt="mohame54" /></a> </p>
