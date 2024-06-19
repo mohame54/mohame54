@@ -4,7 +4,7 @@
 
 <h3 align="center">AI && Machine Learning Engineer</h3>
 
-<img src="/images/Developer.gif" alt="developer gif"  height="45px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.globalxetfs.com.hk%2Fcampaign%2Fai-etfs%2F&psig=AOvVaw1jzT2jEmuLRoj8bF06h4-1&ust=1718886189019000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDHyJfU54YDFQAAAAAdAAAAABAJ" alt="developer gif"  height="45px">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohame54" alt="mohame54" /></a> </p>
 
