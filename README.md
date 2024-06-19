@@ -1,8 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=BF44F7&background=A22DFF00&center=true&vCenter=true&random=false&width=435&height=100&lines=Hi+ALL%2C+This+Is+Mohammed+Ayman;Nice+To+Meet+You)](https://git.io/typing-svg)
+
 <h3 align="center">AI && Machine Learning Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohame54" alt="mohame54" /></a> </p>
