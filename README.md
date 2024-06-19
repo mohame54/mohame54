@@ -16,9 +16,9 @@
   📫 How to reach me 👇
 </p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed ayman kamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed ayman kamel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammed_ayman42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed_ayman42" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammed-ayman-kamel-20b108228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed ayman kamel" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mohammed_ayman42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed_ayman42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
