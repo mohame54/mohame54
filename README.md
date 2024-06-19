@@ -11,7 +11,7 @@
   <br>
   💻 I love Writing code, Deep Learning, LLM, NLP, CV,Problem Solving and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on Cuda Programming 
   <br>
   📫 How to reach me 👇
 </p>
