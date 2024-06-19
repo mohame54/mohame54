@@ -1,4 +1,4 @@
-img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
 <h1 align="center">Hi 👋, I'm Mohammed Ayman Kamel</h1>
 <h3 align="center">AI && Machine Learning Engineer</h3>
 
