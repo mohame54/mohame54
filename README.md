@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">AI && Machine Learning Engineer</h3>
-
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohame54" alt="mohame54" /></a> </p>
 
 - 🔭 I’m currently working on **Arabic Speech recognition**
