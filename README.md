@@ -2,24 +2,29 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=BF44F7&background=A22DFF00&center=true&vCenter=true&random=false&width=435&height=100&lines=Hi+ALL%2C+This+Is+Mohammed+Ayman;Nice+To+Meet+You" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">AI && Machine Learning Engineer</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.globalxetfs.com.hk%2Fcampaign%2Fai-etfs%2F&psig=AOvVaw1jzT2jEmuLRoj8bF06h4-1&ust=1718886189019000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDHyJfU54YDFQAAAAAdAAAAABAJ" alt="developer gif"  height="45px">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
+   
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohame54" alt="mohame54" /></a> </p>
-
-- 🔭 I’m currently working on **Arabic Speech recognition**
-
-- 🌱 I’m currently learning **CUDA Programming**
-
-- 👯 I’m looking to collaborate on **any Open Source Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mohame54](https://github.com/mohame54)
-
-- 📫 How to reach me **mohammed164ayman@gmail.com**
-
-- 📄 Know about my experiences [https://sapphire-hana-5.tiiny.site](https://sapphire-hana-5.tiiny.site)
-
+<p align="center">
+  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  <br>
+  <br>
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  <br>
+  💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
+  <br>
+  📚 I’m currently focusing on Data Science 
+  <br>
+  📫 How to reach me 👇
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed ayman kamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed ayman kamel" height="30" width="40" /></a>
