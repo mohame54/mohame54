@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=160&section=header&text=MOHAMED%20AYMAN&fontAlign=50&fontAlignY=45&fontSize=38&fontColor=ffffff&desc=AI%20Engineer%20%7C%20MSc%20%40%20Univ.%20Padova%20%F0%9F%87%AE%F0%9F%87%B9&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=160&section=header&text=MOHAMED%20AYMAN&fontAlign=50&fontAlignY=45&fontSize=38&fontColor=ffffff&desc=AI%20Engineer%20%40%20TJM%20Labs&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn"/>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=900&color=FF2020&background=00000000&center=true&vCenter=true&width=700&lines=AI+that+talks.+AI+that+sees.+AI+that+heals.;LLMs+%7C+Vision+AI+%7C+Audio+AI+%7C+GenAI+%7C+CUDA;AI+Engineer+%40+TJM+Labs+%7C+MSc+Univ.+Padova;Top+Rated+on+Upwork+%7C+100%25+Job+Success" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=900&color=FF2020&background=00000000&center=true&vCenter=true&width=700&lines=AI+that+talks.+AI+that+sees.+AI+that+heals.;LLMs+%7C+Vision+AI+%7C+Audio+AI+%7C+GenAI+%7C+CUDA;AI+Engineer+%40+TJM+Labs;Top+Rated+on+Upwork+%7C+100%25+Job+Success" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@ profile = {
   "name"      : "Mohamed Ayman",
   "handle"    : "mohame54",
   "bsc"       : "CS & Control Eng — Mansoura Univ 🇪🇬",
-  "msc"       : "AI & Computer Eng — Univ. Padova 🇮🇹",
   "role"      : "AI Engineer @ TJM Labs",
   "domain"    : "Healthcare AI & Pharmacy Automation",
   "freelance" : "Top Rated | 100% JSS | $5K+ earned",
@@ -64,7 +63,7 @@ profile = {
     └─ Implemented BERT in the Ivy framework
     └─ Open-source contributions & frontend work
 
-🎓  Mansoura → Padova
+🎓  Mansoura Univ.
     └─ BSc: CS & Control Systems (2020–2025)
 ```
 
