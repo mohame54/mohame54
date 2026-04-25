@@ -152,11 +152,8 @@ Explainable AI that integrates with both **cloud-based and legacy** pharmacy pla
   <img src="https://img.shields.io/badge/Response-Under%204hrs-0D0D0D?style=for-the-badge&labelColor=CC0000&color=0D0D0D"/>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 🧠 What I've Built for Clients
+
 ```
 ✅  Custom LLM Training & Deployment     ⭐ 5.0
 ✅  AI on Raspberry Pi (offline models)  ⭐ 5.0
@@ -168,26 +165,13 @@ Explainable AI that integrates with both **cloud-based and legacy** pharmacy pla
 ✅  Ivy (UnifyAI) open-source contrib    ✓
 ```
 
-</td>
-<td width="50%" valign="top">
-
 #### 💬 What Clients Say
 
-<br/>
+> *"Skilled programmer who carefully listens to requirements and ensures timely delivery... His expertise in deep learning is outstanding."*
 
-<i>"Skilled programmer who carefully listens to requirements and ensures timely delivery... expertise in deep learning is outstanding."</i>
+> *"Highly punctual, possesses exceptional expertise in cutting-edge AI... outstanding experience working with him a second time."*
 
-<br/>
-
-<i>"Highly punctual, exceptional expertise in cutting-edge AI... outstanding experience working with him a second time."</i>
-
-<br/>
-
-<i>"Exceptional knowledge in ML and deep learning. Delivered high-quality work promptly. Highly recommended."</i>
-
-</td>
-</tr>
-</table>
+> *"Exceptional knowledge in ML and deep learning. Delivered high-quality work promptly. Highly recommended."*
 
 🔗 [Hire me on Upwork](https://www.upwork.com/freelancers/~0199e5be0d708ae88c)
 
