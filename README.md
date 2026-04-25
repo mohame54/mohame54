@@ -66,7 +66,6 @@ profile = {
 
 🎓  Mansoura → Padova
     └─ BSc: CS & Control Systems (2020–2025)
-    └─ MSc: AI & Computer Engineering
 ```
 
 </td>
