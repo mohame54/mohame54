@@ -26,9 +26,9 @@ profile = {
   "name"      : "Mohamed Ayman",
   "handle"    : "mohame54",
   "bsc"       : "CS & Control Eng — Mansoura Univ 🇪🇬",
-  "role"      : "AI Engineer @ TJM Labs",
+  "role"      : "Software Engineer @ TJM Labs",
   "domain"    : "Healthcare AI & Pharmacy Automation",
-  "freelance" : "Top Rated | 100% JSS | $5K+ earned",
+  "freelance" : "Top Rated | 100% JSS",
   "languages" : ["Arabic 🇪🇬 (Native)", "English (Fluent)",
                  "French (Basic)"],
   "expertise" : [
@@ -48,10 +48,8 @@ profile = {
 ### `~/experience`
 
 ```
-🏥  TJM Labs  —  AI Engineer  [Oct 2025 → now]
-    └─ Vision AI agents (millions of Rx processed)
-    └─ NLP bots for prescription data entry
-    └─ VoiceAI for inbound/outbound Rx calls
+🏥  TJM Labs  —  Software Engineer  [Oct 2025 -> ]
+    └─ Bots for prescription data entry
     └─ Explainable AI on cloud & legacy PMS
 
 🏢  Vrtualize SRL  —  AI Engineer  [Nov 2024 → Jul 2025]
