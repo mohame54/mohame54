@@ -26,11 +26,12 @@ profile = {
   "name"      : "Mohamed Ayman",
   "handle"    : "mohame54",
   "bsc"       : "CS & Control Eng — Mansoura Univ 🇪🇬",
-  "role"      : "Software Engineer @ TJM Labs",
+  "msc"       : "AI — University of Bologna 🇮🇹 (2026–2028)",
+  "role"      : "AI System Designer @ TJM Labs",
   "domain"    : "Healthcare AI & Pharmacy Automation",
   "freelance" : "Top Rated | 100% JSS",
   "languages" : ["Arabic 🇪🇬 (Native)", "English (Fluent)",
-                 "French (Basic)"],
+                 "Italian (Beginner)"],
   "expertise" : [
     "LLMs & GenAI Systems",
     "Computer Vision & Audio AI",
@@ -48,7 +49,7 @@ profile = {
 ### `~/experience`
 
 ```
-🏥  TJM Labs  —  Software Engineer  [Oct 2025 -> ]
+🏥  TJM Labs  —  AI System Designer  [Nov 2024 -> ]
     └─ Bots for prescription data entry
     └─ Explainable AI on cloud & legacy PMS
 
@@ -63,6 +64,9 @@ profile = {
 
 🎓  Mansoura Univ.
     └─ BSc: CS & Control Systems (2020–2025)
+    
+🎓  Univ. of Bologna
+    └─ MSc: Artificial Intelligence (2026–2028)
 ```
 
 </td>
@@ -113,17 +117,51 @@ profile = {
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🤖 Vision AI Bots
 AI digital workers that **see** the PMS screen and enter prescriptions like a human — just faster. Processing **millions of prescriptions** across US & Canada pharmacies.
 
 </td>
-<td width="33%" valign="top">
-
+<td width="50%" valign="top">
 
 #### 🔒 HIPAA-Grade Infra
 Explainable AI that integrates with both **cloud-based and legacy** pharmacy platforms. No data retention, vendor-agnostic, live in weeks.
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📄 &nbsp; Publications</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📈 Stock Price Forecasting via Multi-Agent Systems
+**IEEE Explore — 2025**
+
+Developed a hybrid forecasting framework integrating multi-agent systems with advanced time-series models (LSTM, SARIMAX, Time-MOE) to improve stock price prediction accuracy using market news and sentiment analysis.
+
+`Multi-Agent Systems` `LSTM` `SARIMAX` `Time Series` `NLP`
+
+🔗 [IEEE Xplore](https://ieeexplore.ieee.org)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 Logical Reasoning Without Content Bias
+**ACL 2026 Workshop (SemEval-2026)**
+
+Achieved **98.95% accuracy** on syllogistic reasoning by abstracting natural language into pure set-theoretic notation before LLM inference — eliminating content bias (score: 2.13) and outperforming all baselines.
+
+Co-authored with K. El-Hady, A. Mashaly, A. H. Hereiz.
+
+`LLMs` `NLU` `Set Theory` `Syllogistic Reasoning` `NLP`
+
+🔗 [ACL Anthology](https://aclanthology.org)
 
 </td>
 </tr>
@@ -251,7 +289,7 @@ Implemented a **Diffusion Transformer (DiT)** from the paper — from scratch. S
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&pause=1000&color=CC0000&center=true&vCenter=true&width=620&lines=AI+Engineer+%40+TJM+Labs+%7C+Top+Rated+%40+Upwork;100%25+Job+Success+%7C+312hrs+%7C+10+jobs+%7C+5.0+rating;Open+to+research+collaborations+%26+AI+consulting." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&pause=1000&color=CC0000&center=true&vCenter=true&width=620&lines=AI+Engineer+%40+TJM+Labs+%7C+Top+Rated+%40+Upwork;100%25+Job+Success+%7C+312hrs+%7C+10+jobs+%7C+5.0+rating;Published+%40+IEEE+%26+ACL+2026+%7C+Open+to+collaborations." />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=100&section=footer"/>
