@@ -121,11 +121,6 @@ AI digital workers that **see** the PMS screen and enter prescriptions like a hu
 </td>
 <td width="33%" valign="top">
 
-#### 🎙️ VoiceAI
-AI voice agents handling **inbound & outbound** pharmacy calls — refill reminders, appointment scheduling, patient outreach — built for URAC compliance.
-
-</td>
-<td width="33%" valign="top">
 
 #### 🔒 HIPAA-Grade Infra
 Explainable AI that integrates with both **cloud-based and legacy** pharmacy platforms. No data retention, vendor-agnostic, live in weeks.
@@ -133,8 +128,6 @@ Explainable AI that integrates with both **cloud-based and legacy** pharmacy pla
 </td>
 </tr>
 </table>
-
-🔗 [tjmlabs.com](https://tjmlabs.com) &nbsp;|&nbsp; 📦 [ColiVara](https://github.com/tjmlabs/colivara-py) — visual document retrieval &nbsp;|&nbsp; ⚡ [AgentRun](https://github.com/tjmlabs/AgentRun) — safe AI code execution
 
 ---
 
