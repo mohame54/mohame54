@@ -76,7 +76,7 @@ Neuro-symbolic syllogistic reasoning. We abstract natural-language arguments int
 
 `LLMs` `Reasoning` `Belief Bias` `Neuro-Symbolic`
 
-🔗 [Paper](https://aclanthology.org/2026.semeval-1.182/) · [Code](#)
+🔗 [Paper](https://aclanthology.org/2026.semeval-1.182/) 
 
 </td>
 <td width="50%" valign="top">
