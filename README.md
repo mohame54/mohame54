@@ -76,7 +76,7 @@ Neuro-symbolic syllogistic reasoning. We abstract natural-language arguments int
 
 `LLMs` `Reasoning` `Belief Bias` `Neuro-Symbolic`
 
-🔗 [Paper](https://aclanthology.org/2026.semeval-1.182/) 
+🔗 [Paper](https://aclanthology.org/2026.semeval-1.182/) · [Code](https://github.com/khaledelhady44/SemEval-2026-Task-11)
 
 </td>
 <td width="50%" valign="top">
@@ -98,9 +98,11 @@ A hybrid framework combining multi-agent systems with time-series models (LSTM, 
 - **3rd place — Arabic Hadith Named Entity Recognition**, Nile University (2023)
 - **3rd place — IEEE Data Science Competition**, IEEE Mansoura University
 
-#### 🧩 Open-Source Contributions
-- **Intel OpenVINO** — added native ONNX frontend support for the `ReduceL1` operator (Opset 13 & 18). [PR](#)
-- **Ivy (UnifyAI)** — framework-agnostic BERT implementation (multi-head attention, encoder blocks) and complex-dtype support for activation layers. [PR](#)
+#### 🧩 Open-Source Contributions — [36 merged PRs](https://github.com/search?q=is%3Apr+author%3Amohame54+is%3Amerged&type=pullrequests)
+- **Intel OpenVINO** — extended the ONNX frontend's `ReduceL1` operator to opsets 13 & 18 (released in OpenVINO 2025.2). [#29499](https://github.com/openvinotoolkit/openvino/pull/29499)
+- **Ivy (UnifyAI)** — framework-agnostic BERT implementation for `ivy_models` [#46](https://github.com/ivy-llc/models/pull/46), plus a BERT demo [#41](https://github.com/ivy-llc/demos/pull/41)
+- **Ivy (UnifyAI)** — complex-dtype support for activation functions (GELU, ReLU, Softplus, Mish, Softmax, Logit, Log-Softmax) [#21413](https://github.com/unifyai/ivy/pull/21413) · [#23158](https://github.com/unifyai/ivy/pull/23158) · [#23412](https://github.com/unifyai/ivy/pull/23412)
+- **Ivy (UnifyAI)** — new functional-API ops (`mel_weight_matrix`, `max_unpool1d`, `fill_diagonal`) and Paddle/PyTorch frontend work
 
 ---
 
